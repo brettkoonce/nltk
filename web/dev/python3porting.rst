@@ -123,7 +123,7 @@ Doctests porting notes
 ----------------------
 
 NLTK test suite is mostly doctest-based. Most usual rules apply to
-porting doctests code. But ther are some issues that make the
+porting doctests code. But there are some issues that make the
 process harder, so in order to make doctests work under
 Python 2.x and Python 3.x extra tricks are needed.
 
